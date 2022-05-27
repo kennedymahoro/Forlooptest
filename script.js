@@ -3,7 +3,7 @@ let Answer = [[1,2,3],[1,4,7],[1,5,9],[2,5,8],[4,5,6],[3,5,7],[3,6,9],[7,8,9]];
 let playerX = [1,7,8,9];
 let ArrayOfAnswerX = [];
 
-
+// forloop
 for(let i=0;i<Answer.length;i++){
   for(let j=0;j<Answer[i].length;j++){
     for(let k=0;k<Answer[i].length;k++){
